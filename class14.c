@@ -10,6 +10,6 @@ int main() {
 char ch;
 printf("Enter a lower or upper case alphabet: ");
 scanf("%c", &ch);
-printf("The opposite case alphabet is %c \n", to_upper(ch));
+printf("The opposite case alphabet is %c \n", to_upper(ch)); // print opposite case alphabet
 return 0;
 }
