@@ -5,6 +5,6 @@ int main () {
 int a, b, c;
 scanf("%d %d %d", &a, &b, &c);
 int sum = a + b + c;
-printf("The sum is %d\n", sum);
+printf("The sum is %d\n", sum); //Sum 3 integer
 return 0;
 }
