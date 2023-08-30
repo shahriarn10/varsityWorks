@@ -6,7 +6,7 @@ int main() {
         for(col=1; col<=row; col++) {
             printf("*");
         }
-        printf("\n");
+        printf("\n"); //print 1 to 5 times '*'
     }
     return 0;
 }
