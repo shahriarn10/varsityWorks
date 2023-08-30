@@ -5,6 +5,6 @@ int sum=0;
 for(int i=0; i<5; i++) {
     sum += a[i];
 }
-printf("The sum is %d without loop\n", sum);
+printf("The sum is %d without loop\n", sum); //sum array without index defining
 return 0;
 }
