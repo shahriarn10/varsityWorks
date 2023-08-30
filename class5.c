@@ -26,7 +26,7 @@ int main() {
         printf("D");
     }
     else if("marks>=0 && marks<40") {
-        printf("failed");
+        printf("failed"); //result whether pass, fail, A+, A-.......
     }
     else
         printf("Enter a valid number"); {
